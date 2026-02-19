@@ -1,7 +1,5 @@
 # sales-performance-dashboard
 Sales Performance Dashboard built in Google Sheets
-![Sales Dashboard]
-(Sales Operations System - Google Sheets)
 This dashboard analyzes sales performance using structured data techniques to track revenue, conversion rates, and deal progression.
 
 ## Key metrics displayed:
