@@ -1,0 +1,56 @@
+Lead ID,Date Received ,Sales Rep,Client Company Name ,Industry,Deal Stage ,Deal Value,Deal Status,Close Date
+L001,1/17/2025,Ugochukwu U.,SwiftHire HR Services,Freelancing,Contacted,"$3,127.00 ",Open, 
+L002,1/11/2025,Stanley J.,NovaTech Solutions,Tech,Proposal sent,"$2,364.00 ",Open,
+L003,1/9/2025,Cynthia F.,SkyLine Solutions,AirLine,New Lead,"$1,651.00 ",Open,
+L004,1/6/2025,Cosmos D.,Apex Digital Agency,Tech,Awaiting Response,"$4,849.00 ",Open,
+L005,1/17/2025,Cynthia F.,PrimeCare Health,Health,Won,"$2,857.00 ",Closed,2/14/2025
+L006,1/10/2025,Ugochukwu U.,Retail Hub,Retail,Follow-Up Email Sent,"$2,020.00 ",Open,
+L007,1/20/2025,Cynthia F.,PrimeEdge Systems,Tech,Negotiation,"$1,400.00 ",Open,
+L008,1/22/2025,Cynthia F.,Apex Digital Agency,Tech,Lost,"$2,824.00 ",Closed,2/11/2025
+L009,1/27/2025,Stanley J.,SwiftHire HR Services,Freelancing,Won,"$4,400.00 ",Closed,2/10/2025
+L010,1/14/2025,Cosmos D.,SwiftHire HR Services,Freelancing,Awaiting Response,"$3,816.00 ",Open,
+L011,1/11/2025,Cynthia F.,SkyLine Solutions,AirLine,Follow-Up Email Sent,"$1,477.00 ",Open,
+L012,1/8/2025,Cynthia F.,NovaTech Solutions,Tech,Contacted,"$4,027.00 ",Open,
+L013,1/22/2025,Stanley J.,BrightPath Consulting,NGO,Proposal sent,"$1,738.00 ",Open,
+L014,1/17/2025,Cynthia F.,Apex Digital Agency,Tech,New Lead,"$2,820.00 ",Open,
+L015,1/28/2025,Cynthia F.,Greenfield Manufacturing,Retail,Negociation,"$1,057.00",Open,
+L016,1/18/2025,Kelechi A.,PrimeCare Health,Health,Contacted,"$3,319.00 ",Open,
+L017,1/11/2025,Cosmos D.,PrimeCare Health,Health,Follow-Up Email Sent,"$2,189.00 ",Open,
+L018,1/28/2025,Kelechi A.,NovaTech Solutions,Tech,Negotiation,$882.00 ,Open,
+L019,1/21/2025,Stanley J.,Apex Digital Agency,Tech,Awaiting Response,"$3,238.00 ",Open,
+L020,1/15/2025,Ugochukwu U.,PrimeEdge Systems,Tech,Proposal sent,"$1,719.00 ",Open,
+L021,1/9/2025,Cynthia F.,PrimeEdge Systems,Tech,Contacted,"$3,272.00 ",Open,
+L022,1/25/2025,Cosmos D.,PrimeEdge Systems,Tech,Contacted,"$3,742.00 ",Open,
+L023,1/7/2025,Kelechi A.,BrightPath Consulting,NGO,Follow-Up Email Sent,"$4,822.00 ",Open,
+L024,1/10/2025,Stanley J.,Greenfield Manufacturing,Retail,Proposal sent,$911.00 ,Open,
+L025,1/7/2025,Kelechi A.,Retail Hub,Retail,Proposal sent,"$4,491.00 ",Open,
+L026,1/19/2025,Cynthia F.,Evans Logistics Ltd,Finance,Proposal sent,"$2,934.00 ",Open,
+L027,1/19/2025,Cynthia F.,Evans Logistics Ltd,Finance,Negotiation,"$3,623.00 ",Open,
+L028,1/24/2025,Cosmos D.,BrightPath Consulting,NGO,Lost,$669.00 ,Closed,2/6/2025
+L029,1/22/2025,Stanley J.,SwiftHire HR Services,Freelancing,Awaiting Response,"$3,697.00 ",Open,
+L030,1/18/2025,Stanley J.,BrightPath Consulting,NGO,Awaiting Response,"$1,523.00 ",Open,
+L031,1/6/2025,Cosmos D.,Evans Logistics Ltd,Finance,Won,"$4,218.00 ",Closed,1/18/2025
+L032,1/7/2025,Cynthia F.,Greenfield Manufacturing,Retail,Negociation,3184,Open,
+L033,1/12/2025,Cosmos D.,Evans Logistics Ltd,Finance,Won,"$1,626.00 ",Closed,2/11/2025
+L034,1/19/2025,Cosmos D.,Evans Logistics Ltd,Finance,Contacted,"$3,763.00 ",Open,
+L035,1/25/2025,Kelechi A.,Greenfield Manufacturing,Retail,Proposal sent,"$3,679.00 ",Open,
+L036,1/17/2025,Ugochukwu U.,Greenfield Manufacturing,Retail,New Lead,"$1,044.00 ",Open,
+L037,1/29/2025,Kelechi A.,SwiftHire HR Services,Freelancing,Awaiting Response,"$2,640.00 ",Open,
+L038,1/13/2025,Stanley J.,Greenfield Manufacturing,Retail,Won,"$1,458.00 ",Closed,1/19/2025
+L039,1/24/2025,Cosmos D.,Apex Digital Agency,Tech,Negotiation,"$3,147.00 ",Open,
+L040,1/30/2025,Stanley J.,Apex Digital Agency,Tech,Follow-Up Email Sent,"$3,797.00 ",Open,
+L041,1/11/2025,Kelechi A.,BrightPath Consulting,NGO,Awaiting Response,"$3,038.00 ",Open,
+L042,1/12/2025,Stanley J.,Apex Digital Agency,Tech,Won,"$3,051.00 ",Closed,1/30/2025
+L043,1/31/2025,Stanley J.,SwiftHire HR Services,Freelancing,Contacted,"$3,132.00 ",Open,
+L044,1/22/2025,Kelechi A.,PrimeCare Health,Health,Follow-Up Email Sent,"$3,969.00 ",Open,
+L045,1/23/2025,Ugochukwu U.,PrimeCare Health,Health,New Lead,$640.00 ,Open,
+L046,1/16/2025,Stanley J.,PrimeEdge Systems,Tech,Contacted,"$2,246.00 ",Open,
+L047,1/24/2025,Ugochukwu U.,BrightPath Consulting,NGO,Contacted,"$1,652.00 ",Open,
+L048,1/8/2025,Ugochukwu U.,NovaTech Solutions,Tech,Proposal sent,"$4,715.00 ",Open,
+L049,1/6/2025,Cynthia F.,Greenfield Manufacturing,Retail,Follow-Up Email Sent,"$1,110.00 ",Open,
+L050,1/26/2025,Kelechi A.,PrimeEdge Systems,Tech,Follow-Up Email Sent,"$2,417.00 ",Open,
+L051,1/29/2025,Ugochukwu U.,PrimeCare Health,Health,New Lead,"$4,266.00 ",Open,
+L052,1/9/2025,Kelechi A.,Apex Digital Agency,Tech,Awaiting Response,"$4,413.00 ",Open,
+L053,1/18/2025,Stanley J.,SkyLine Solutions,AirLine,Proposal sent,"$4,176.00 ",Open,
+L054,1/17/2025,Cosmos D.,Apex Digital Agency,Tech,Proposal sent,"$4,490.00 ",Open,
+L055,1/10/2025,Ugochukwu U.,Apex Digital Agency,Tech,Won,$670.00 ,Closed,2/1/2025
