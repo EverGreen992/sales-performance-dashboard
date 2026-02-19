@@ -2,7 +2,7 @@
 Sales Performance Dashboard built in Google Sheets
 ![Sales Dashboard]
 (Sales Operations System - Google Sheets)
-This dashboard analyzes sales performance using structured data techniques.
+This dashboard analyzes sales performance using structured data techniques to track revenue, conversion rates, and deal progression.
 
 Key metrics displayed:
 - Total Revenue
@@ -10,10 +10,10 @@ Key metrics displayed:
 - Deal Stage Distribution
 - Sales Representative Performance
 - Lead Conversion Tracking
-
-The dashboard was built using:
+  
+- Tools and Techniques Used
 - Pivot Tables
 - ARRAYFORMULA
-- Data Validation
 - Conditional Formatting
 - Structured Data Modeling
+- KPI Calculations
